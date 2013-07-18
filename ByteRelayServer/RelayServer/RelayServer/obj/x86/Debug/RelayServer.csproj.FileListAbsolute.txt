@@ -1,0 +1,8 @@
+C:\Users\ely04\Downloads\XNA networking\ByteRelayServer\RelayServer\RelayServer\bin\Debug\RelayServer.exe.config
+C:\Users\ely04\Downloads\XNA networking\ByteRelayServer\RelayServer\RelayServer\bin\Debug\RelayServer.exe
+C:\Users\ely04\Downloads\XNA networking\ByteRelayServer\RelayServer\RelayServer\bin\Debug\RelayServer.pdb
+C:\Users\ely04\Downloads\XNA networking\ByteRelayServer\RelayServer\RelayServer\obj\x86\Debug\RelayServer.exe
+C:\Users\ely04\Downloads\XNA networking\ByteRelayServer\RelayServer\RelayServer\obj\x86\Debug\RelayServer.pdb
+C:\Users\ely04\Documents\GitHub\SocketServer\ByteRelayServer\RelayServer\RelayServer\bin\Debug\RelayServer.exe.config
+C:\Users\ely04\Documents\GitHub\SocketServer\ByteRelayServer\RelayServer\RelayServer\obj\x86\Debug\RelayServer.exe
+C:\Users\ely04\Documents\GitHub\SocketServer\ByteRelayServer\RelayServer\RelayServer\obj\x86\Debug\RelayServer.pdb
