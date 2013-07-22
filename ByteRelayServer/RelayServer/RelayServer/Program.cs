@@ -33,6 +33,7 @@ namespace RelayServer
         /// </summary>
         private static void WriteSettings()
         {
+            /*
             Console.WriteLine("Server Settings: ");
             Console.WriteLine("SendBackToOriginalClient = " + Properties.Settings.Default.SendBackToOriginalClient);
             Console.WriteLine("Port = " + Properties.Settings.Default.Port);
@@ -44,6 +45,10 @@ namespace RelayServer
             Console.WriteLine("SendMessageToClientsWhenAUserIsRemoved = " + Properties.Settings.Default.SendMessageToClientsWhenAUserIsRemoved);
             Console.WriteLine("EnableSendingIPAndIDWithEveryMessage = " + Properties.Settings.Default.EnableSendingIPAndIDWithEveryMessage);
             Console.WriteLine("\nIf these settings are incorrect, please close the server and open the config file");
+            */
+
+            Console.WriteLine("Server Running On Port: " + Properties.Settings.Default.Port);
+            Console.WriteLine("Maximum Number Of Players: " + Properties.Settings.Default.MaxNumberOfClients + "\n");
         }
     }
 }

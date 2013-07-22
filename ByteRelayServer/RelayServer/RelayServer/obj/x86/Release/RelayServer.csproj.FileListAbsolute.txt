@@ -1,1 +1,7 @@
 C:\Users\ely04\Downloads\XNA networking\ByteRelayServer\RelayServer\RelayServer\bin\Release\RelayServer.exe.config
+C:\Users\ely04\Documents\GitHub\SocketServer\ByteRelayServer\RelayServer\RelayServer\bin\Release\RelayServer.exe.config
+C:\Users\ely04\Documents\GitHub\SocketServer\ByteRelayServer\RelayServer\RelayServer\bin\Release\RelayServer.exe
+C:\Users\ely04\Documents\GitHub\SocketServer\ByteRelayServer\RelayServer\RelayServer\bin\Release\RelayServer.pdb
+C:\Users\ely04\Documents\GitHub\SocketServer\ByteRelayServer\RelayServer\RelayServer\obj\x86\Release\RelayServer.csprojResolveAssemblyReference.cache
+C:\Users\ely04\Documents\GitHub\SocketServer\ByteRelayServer\RelayServer\RelayServer\obj\x86\Release\RelayServer.exe
+C:\Users\ely04\Documents\GitHub\SocketServer\ByteRelayServer\RelayServer\RelayServer\obj\x86\Release\RelayServer.pdb

@@ -81,7 +81,8 @@ namespace RelayServer
             user.UserDisconnected += new ConnectionEvent(user_UserDisconnected);
 
             //Print the new player message to the server window.
-            Console.WriteLine(user.ToString() + " connected\tConnected Clients:  " + connectedClients + "\n");
+            Console.WriteLine(user.ToString() + " has connected\n");
+            Console.WriteLine("Connected Players:  " + connectedClients + "\n");
 
             //Add to the client array
             client[user.id] = user;
@@ -110,7 +111,8 @@ namespace RelayServer
             }
 
             //Print the removed player message to the server window.
-            Console.WriteLine(user.ToString() + " disconnected\tConnected Clients:  " + connectedClients + "\n");
+            Console.WriteLine(user.ToString() + " has disconnected\n");
+            Console.WriteLine("Connected Player:  " + connectedClients + "\n");
 
             //Clear the array's index
             client[user.id] = null;
